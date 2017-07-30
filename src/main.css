@@ -1,0 +1,4 @@
+.cancel-unit{
+	transition-property: left, top, background-color;
+	transition-duration: 1s;
+}
