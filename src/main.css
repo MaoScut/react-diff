@@ -2,3 +2,12 @@
 	transition-property: left, top, background-color;
 	transition-duration: 1s;
 }
+.myclass50{
+	top: 50px;
+}
+.myclass100{
+	top: 100px;
+}
+.myclass150{
+	top: 150px;
+}
